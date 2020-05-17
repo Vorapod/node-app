@@ -1,0 +1,3 @@
+*.vs
+*.d.ts
+node_modules
